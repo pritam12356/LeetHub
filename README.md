@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/pritam12356/LeetHub/tree/master/0011-container-with-most-water) |
 | [0643-maximum-average-subarray-i](https://github.com/pritam12356/LeetHub/tree/master/0643-maximum-average-subarray-i) |
+| [3903-smallest-stable-index-i](https://github.com/pritam12356/LeetHub/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/pritam12356/LeetHub/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/pritam12356/LeetHub/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
