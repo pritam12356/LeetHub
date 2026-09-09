@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/pritam12356/LeetHub/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/pritam12356/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/pritam12356/LeetHub/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/pritam12356/LeetHub/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pritam12356/LeetHub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3903-smallest-stable-index-i](https://github.com/pritam12356/LeetHub/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pritam12356/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/pritam12356/LeetHub/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/pritam12356/LeetHub/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
