@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pritam12356/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/pritam12356/LeetHub/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/pritam12356/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pritam12356/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/pritam12356/LeetHub/tree/master/0202-happy-number) |
@@ -52,6 +53,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pritam12356/LeetHub/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pritam12356/LeetHub/tree/master/0202-happy-number) |
 ## Prefix Sum
 |  |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pritam12356/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/pritam12356/LeetHub/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
