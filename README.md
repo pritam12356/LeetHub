@@ -55,6 +55,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/pritam12356/LeetHub/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pritam12356/LeetHub/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/pritam12356/LeetHub/tree/master/0258-add-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pritam12356/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pritam12356/LeetHub/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pritam12356/LeetHub/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
